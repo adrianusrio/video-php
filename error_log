@@ -1,0 +1,224 @@
+[03-Nov-2020 13:23:51 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on boolean in /home/biruid/vending/dev2/video/checkvideo.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 8
+[03-Nov-2020 13:24:02 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on boolean in /home/biruid/vending/dev2/video/checkvideo.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 8
+[03-Nov-2020 13:24:04 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on boolean in /home/biruid/vending/dev2/video/checkvideo.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 8
+[03-Nov-2020 13:31:50 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/biruid/vending/dev2/video/checkvideo.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 11
+[03-Nov-2020 13:32:05 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/biruid/vending/dev2/video/checkvideo.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 11
+[03-Nov-2020 13:32:08 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/biruid/vending/dev2/video/checkvideo.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 11
+[03-Nov-2020 13:32:09 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/biruid/vending/dev2/video/checkvideo.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 11
+[03-Nov-2020 13:32:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/biruid/vending/dev2/video/checkvideo.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 11
+[03-Nov-2020 13:32:56 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/biruid/vending/dev2/video/checkvideo.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 11
+[03-Nov-2020 13:33:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/biruid/vending/dev2/video/checkvideo.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 11
+[03-Nov-2020 13:33:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/biruid/vending/dev2/video/checkvideo.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 11
+[03-Nov-2020 13:34:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function trx() on null in /home/biruid/vending/dev2/video/checkvideo.php:20
+Stack trace:
+#0 /home/biruid/vending/dev2/video/checkvideo.php(11): getdatapusat()
+#1 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 20
+[03-Nov-2020 13:56:09 Asia/Jakarta] PHP Warning:  implode(): Invalid arguments passed in /home/biruid/vending/dev2/video/checkvideo.php on line 12
+[03-Nov-2020 13:56:27 Asia/Jakarta] PHP Warning:  implode(): Invalid arguments passed in /home/biruid/vending/dev2/video/checkvideo.php on line 12
+[03-Nov-2020 14:58:40 Asia/Jakarta] PHP Warning:  implode(): Invalid arguments passed in /home/biruid/vending/dev2/video/checkvideo.php on line 12
+[03-Nov-2020 14:58:41 Asia/Jakarta] PHP Warning:  implode(): Invalid arguments passed in /home/biruid/vending/dev2/video/checkvideo.php on line 12
+[03-Nov-2020 14:59:00 Asia/Jakarta] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/biruid/vending/dev2/video/checkvideo.php on line 28
+[03-Nov-2020 14:59:00 Asia/Jakarta] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/biruid/vending/dev2/video/checkvideo.php on line 28
+[03-Nov-2020 14:59:00 Asia/Jakarta] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/biruid/vending/dev2/video/checkvideo.php on line 28
+[03-Nov-2020 14:59:00 Asia/Jakarta] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/biruid/vending/dev2/video/checkvideo.php on line 28
+[03-Nov-2020 14:59:00 Asia/Jakarta] PHP Warning:  implode(): Invalid arguments passed in /home/biruid/vending/dev2/video/checkvideo.php on line 12
+[03-Nov-2020 14:59:23 Asia/Jakarta] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/biruid/vending/dev2/video/checkvideo.php on line 28
+[03-Nov-2020 14:59:23 Asia/Jakarta] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/biruid/vending/dev2/video/checkvideo.php on line 28
+[03-Nov-2020 14:59:23 Asia/Jakarta] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/biruid/vending/dev2/video/checkvideo.php on line 28
+[03-Nov-2020 14:59:23 Asia/Jakarta] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/biruid/vending/dev2/video/checkvideo.php on line 28
+[03-Nov-2020 14:59:23 Asia/Jakarta] PHP Warning:  implode(): Invalid arguments passed in /home/biruid/vending/dev2/video/checkvideo.php on line 12
+[03-Nov-2020 14:59:24 Asia/Jakarta] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/biruid/vending/dev2/video/checkvideo.php on line 28
+[03-Nov-2020 14:59:24 Asia/Jakarta] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/biruid/vending/dev2/video/checkvideo.php on line 28
+[03-Nov-2020 14:59:24 Asia/Jakarta] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/biruid/vending/dev2/video/checkvideo.php on line 28
+[03-Nov-2020 14:59:24 Asia/Jakarta] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/biruid/vending/dev2/video/checkvideo.php on line 28
+[03-Nov-2020 14:59:24 Asia/Jakarta] PHP Warning:  implode(): Invalid arguments passed in /home/biruid/vending/dev2/video/checkvideo.php on line 12
+[03-Nov-2020 14:59:33 Asia/Jakarta] PHP Warning:  implode(): Invalid arguments passed in /home/biruid/vending/dev2/video/checkvideo.php on line 12
+[03-Nov-2020 14:59:59 Asia/Jakarta] PHP Warning:  implode(): Invalid arguments passed in /home/biruid/vending/dev2/video/checkvideo.php on line 12
+[03-Nov-2020 15:00:34 Asia/Jakarta] PHP Warning:  implode(): Invalid arguments passed in /home/biruid/vending/dev2/video/checkvideo.php on line 12
+[03-Nov-2020 15:01:36 Asia/Jakarta] PHP Warning:  implode(): Invalid arguments passed in /home/biruid/vending/dev2/video/checkvideo.php on line 12
+[03-Nov-2020 15:02:48 Asia/Jakarta] PHP Warning:  implode(): Invalid arguments passed in /home/biruid/vending/dev2/video/checkvideo.php on line 12
+[03-Nov-2020 15:18:56 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/biruid/vending/dev2/video/checkvideo.php on line 39
+[03-Nov-2020 15:19:53 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/biruid/vending/dev2/video/checkvideo.php on line 39
+[03-Nov-2020 15:19:54 Asia/Jakarta] PHP Warning:  mysqli::query(): Empty query in /home/biruid/vending/dev2/video/checkvideo.php on line 39
+[03-Nov-2020 15:31:34 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on boolean in /home/biruid/vending/dev2/video/checkvideo.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 9
+[03-Nov-2020 15:31:57 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on boolean in /home/biruid/vending/dev2/video/checkvideo.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 9
+[03-Nov-2020 15:31:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on boolean in /home/biruid/vending/dev2/video/checkvideo.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 9
+[03-Nov-2020 15:32:00 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on boolean in /home/biruid/vending/dev2/video/checkvideo.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 9
+[03-Nov-2020 15:32:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on boolean in /home/biruid/vending/dev2/video/checkvideo.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 9
+[03-Nov-2020 15:32:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on boolean in /home/biruid/vending/dev2/video/checkvideo.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 9
+[03-Nov-2020 15:32:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on boolean in /home/biruid/vending/dev2/video/checkvideo.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 9
+[03-Nov-2020 15:32:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on boolean in /home/biruid/vending/dev2/video/checkvideo.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 9
+[03-Nov-2020 15:33:12 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on boolean in /home/biruid/vending/dev2/video/checkvideo.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 9
+[03-Nov-2020 15:33:13 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on boolean in /home/biruid/vending/dev2/video/checkvideo.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 9
+[03-Nov-2020 15:33:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on boolean in /home/biruid/vending/dev2/video/checkvideo.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 9
+[03-Nov-2020 15:33:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on boolean in /home/biruid/vending/dev2/video/checkvideo.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 9
+[03-Nov-2020 15:33:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on boolean in /home/biruid/vending/dev2/video/checkvideo.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 9
+[03-Nov-2020 15:33:32 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on boolean in /home/biruid/vending/dev2/video/checkvideo.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 9
+[03-Nov-2020 15:33:33 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on boolean in /home/biruid/vending/dev2/video/checkvideo.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 9
+[03-Nov-2020 15:33:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on boolean in /home/biruid/vending/dev2/video/checkvideo.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 9
+[03-Nov-2020 15:33:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on boolean in /home/biruid/vending/dev2/video/checkvideo.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 9
+[03-Nov-2020 15:33:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on boolean in /home/biruid/vending/dev2/video/checkvideo.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 9
+[03-Nov-2020 15:33:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on boolean in /home/biruid/vending/dev2/video/checkvideo.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 9
+[03-Nov-2020 15:34:21 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on boolean in /home/biruid/vending/dev2/video/checkvideo.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 9
+[03-Nov-2020 15:34:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on boolean in /home/biruid/vending/dev2/video/checkvideo.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 9
+[03-Nov-2020 15:34:22 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on boolean in /home/biruid/vending/dev2/video/checkvideo.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 9
+[03-Nov-2020 15:35:07 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on boolean in /home/biruid/vending/dev2/video/checkvideo.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 13
+[03-Nov-2020 16:36:49 Asia/Jakarta] PHP Notice:  Undefined variable: conn in /home/biruid/vending/dev2/video/checkvideo.php on line 68
+[03-Nov-2020 16:36:49 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/biruid/vending/dev2/video/checkvideo.php:68
+Stack trace:
+#0 /home/biruid/vending/dev2/video/checkvideo.php(62): deleteallrecordlocal(Object(mysqli))
+#1 /home/biruid/vending/dev2/video/checkvideo.php(17): updaterecordlocal(Object(mysqli), Object(mysqli))
+#2 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 68
+[03-Nov-2020 16:37:01 Asia/Jakarta] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function insertnewrecordlocal(), 1 passed in /home/biruid/vending/dev2/video/checkvideo.php on line 63 and exactly 2 expected in /home/biruid/vending/dev2/video/checkvideo.php:34
+Stack trace:
+#0 /home/biruid/vending/dev2/video/checkvideo.php(63): insertnewrecordlocal(Object(mysqli))
+#1 /home/biruid/vending/dev2/video/checkvideo.php(17): updaterecordlocal(Object(mysqli), Object(mysqli))
+#2 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 34
+[03-Nov-2020 16:45:20 Asia/Jakarta] PHP Warning:  mysqli::commit(): Couldn't fetch mysqli in /home/biruid/vending/dev2/video/checkvideo.php on line 66
+[03-Nov-2020 17:21:39 Asia/Jakarta] PHP Notice:  Undefined variable: config in /home/biruid/vending/dev2/video/checkvideo.php on line 15
+[03-Nov-2020 17:21:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function local() on null in /home/biruid/vending/dev2/video/checkvideo.php:15
+Stack trace:
+#0 /home/biruid/vending/dev2/video/checkvideo.php(78): Video->__construct()
+#1 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 15
+[03-Nov-2020 17:22:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function deleteallrecordlocal() in /home/biruid/vending/dev2/video/checkvideo.php:61
+Stack trace:
+#0 /home/biruid/vending/dev2/video/checkvideo.php(86): Video->updaterecordlocal()
+#1 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 61
+[03-Nov-2020 17:28:00 Asia/Jakarta] PHP Notice:  Accessing static property Video::$machine_code as non static in /home/biruid/vending/dev2/video/checkvideo.php on line 80
+[03-Nov-2020 17:28:00 Asia/Jakarta] PHP Notice:  Undefined property: Video::$machine_code in /home/biruid/vending/dev2/video/checkvideo.php on line 80
+[03-Nov-2020 17:35:53 Asia/Jakarta] PHP Notice:  Undefined variable: res_video_local in /home/biruid/vending/dev2/video/checkvideo.php on line 83
+[03-Nov-2020 17:35:53 Asia/Jakarta] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/biruid/vending/dev2/video/checkvideo.php on line 83
+[03-Nov-2020 18:20:31 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/biruid/vending/dev2/video/checkvideo.php on line 22
+[03-Nov-2020 18:20:31 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on null in /home/biruid/vending/dev2/video/checkvideo.php:117
+Stack trace:
+#0 /home/biruid/vending/dev2/video/checkvideo.php(157): Video->pushvideomachinedetailpusat()
+#1 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 117
+[03-Nov-2020 18:22:11 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/biruid/vending/dev2/video/checkvideo.php on line 22
+[03-Nov-2020 18:22:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on null in /home/biruid/vending/dev2/video/checkvideo.php:117
+Stack trace:
+#0 /home/biruid/vending/dev2/video/checkvideo.php(157): Video->pushvideomachinedetailpusat()
+#1 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 117
+[03-Nov-2020 18:23:15 Asia/Jakarta] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/biruid/vending/dev2/video/checkvideo.php on line 22
+[03-Nov-2020 18:23:15 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on null in /home/biruid/vending/dev2/video/checkvideo.php:117
+Stack trace:
+#0 /home/biruid/vending/dev2/video/checkvideo.php(155): Video->pushvideomachinedetailpusat()
+#1 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 117
+[04-Nov-2020 10:35:26 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function collect_file() in /home/biruid/vending/dev2/video/checkvideo.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 165
+[04-Nov-2020 10:43:37 Asia/Jakarta] PHP Notice:  Undefined variable: data in /home/biruid/vending/dev2/video/checkvideo.php on line 176
+[04-Nov-2020 10:43:37 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on null in /home/biruid/vending/dev2/video/checkvideo.php:176
+Stack trace:
+#0 {main}
+  thrown in /home/biruid/vending/dev2/video/checkvideo.php on line 176
